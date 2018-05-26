@@ -14,7 +14,13 @@ class App
 {
     static function run(){
 
-        //注册错误
+        //模块检测
+        if(!extension_loaded('redis')){
+            echo "redis module is not load";
+            exit;
+        }
+
+        //注册提示
         $whoops = new \Whoops\Run;
         $whoops->pushHandler(new \Whoops\Handler\PrettyPageHandler());
         $whoops->register();
