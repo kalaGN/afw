@@ -1,7 +1,7 @@
 {
   "name": "Afei/Aframework",
   "description":"PHP Framework",
-  "keywords":["PHP Framework"],
+  "keywords":["A PHP Framework for test"],
   "require": {
     "php": "7.1.14",
     "monolog/monolog": "1.0.*",
