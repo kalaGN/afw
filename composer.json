@@ -1,6 +1,14 @@
 {
   "name": "Afei/Aframework",
   "description":"PHP Framework",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Afei",
+      "email": "18710261897@163.com"
+    }
+  ],
   "keywords":["A PHP Framework for test"],
   "require": {
     "php": "7.1.14",
