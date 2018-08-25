@@ -1,7 +1,7 @@
 # AFW
 A PHP framework for study
 
-##结合
+## 结合
 MVC
 
 Router
@@ -16,6 +16,6 @@ log
 
 composer
 
-##问题
+## 问题
 
 composer exist repeat code
