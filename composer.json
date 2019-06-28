@@ -3,7 +3,7 @@
   "description":"PHP Framework",
   "keywords":["A PHP Framework for test"],
   "license": "MIT",
-  "type": "framework",
+  "type": "project",
   "version": "1.0.0",
   "authors": [
     {
