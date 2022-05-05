@@ -4,7 +4,7 @@
   "keywords":["A PHP Framework for test"],
   "license": "MIT",
   "type": "framework",
-  "version": "1.0.0",
+  "version": "1.0.0.0",
   "authors": [
     {
       "name": "Afei",
