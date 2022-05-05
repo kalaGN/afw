@@ -14,7 +14,7 @@
   "require": {
     "php": "7.*",
     "monolog/monolog": "1.0.*",
-    "catfan/Medoo": "^1.5",
+    "catfan/medoo": "^1.5",
     "filp/whoops": "^2.1",
     "symfony/var-dumper":"*",
     "nesbot/carbon": "^1.27",
