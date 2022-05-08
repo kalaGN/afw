@@ -1,5 +1,5 @@
 # AFW
-A PHP framework for study
+A PHP framework for fun
 
 ## 结合
 MVC
